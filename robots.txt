@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://riexye.github.io/ffx/sitemap.ffx.gz
